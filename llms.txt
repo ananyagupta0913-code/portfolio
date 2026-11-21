@@ -1,0 +1,23 @@
+# Ananya Gupta – Portfolio
+
+> Personal portfolio of Ananya Gupta, a B.Tech CSE (AIML) student at SRMCEM, Lucknow (graduating 2028),
+> passionate about Data Science, AI/ML and Web Development.
+
+Built as a static site with Astro, React and Tailwind CSS. Sections: Home (intro, skills, technologies),
+Projects and Contact (form powered by Formspree). Requires Node.js >= 20 and pnpm.
+
+## Links
+
+- [GitHub](https://github.com/ananyagupta0913-code): source code and projects
+- [LinkedIn](https://www.linkedin.com/in/ananya-gupta-a15200378/): professional profile
+- [Live site](https://ananyagupta0913-code.github.io/portfolio/): deployed portfolio
+
+## Skills
+
+- Programming: Python, C
+- Web: HTML, CSS, JavaScript
+- Currently learning: Machine Learning
+
+## Credits
+
+Based on the MIT-licensed "Dark Minimal" template by Andres Hernandez (https://github.com/Gothsec), distributed by ThemeWagon.
